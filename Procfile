@@ -1,0 +1,1 @@
+web: gunicorn lvcBackend.wsgi --log-file -

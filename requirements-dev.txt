@@ -9,7 +9,7 @@ django-filter==2.1.0
 django-markdown-deux==1.0.5
 django-oauth-toolkit==1.2.0
 django-pagedown==1.0.6
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-oauth==1.1.0
 idna==2.8
